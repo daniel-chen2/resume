@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.29)  30 MAR 2022 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.29)  30 MAR 2022 23:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -87,20 +87,20 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box52
 ) (resume.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -111,14 +111,14 @@ LaTeX Font Info:    ... okay on input line 9.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.90755pt, 556.4799pt, 28.90755pt)
-* v-part:(T,H,B)=(28.90755pt, 737.15489pt, 28.90755pt)
+* v-part:(T,H,B)=(18.06749pt, 758.835pt, 18.06749pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=556.4799pt
-* \textheight=737.15489pt
+* \textheight=758.835pt
 * \oddsidemargin=-43.36244pt
 * \evensidemargin=-43.36244pt
-* \topmargin=-80.36244pt
+* \topmargin=-91.2025pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -137,18 +137,18 @@ LaTeX Font Info:    ... okay on input line 9.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 9.
+(Font)              <10.95> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 9.
+(Font)              <6> on input line 11.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 9--9
+Overfull \hbox (30.0pt too wide) in paragraph at lines 11--11
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--17
+Underfull \hbox (badness 10000) in paragraph at lines 13--19
 
  []
 
@@ -157,8 +157,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--17
 {C:/Users/DChen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
  1911 strings out of 478582
- 32066 string characters out of 2844344
- 339927 words of memory out of 3000000
+ 31994 string characters out of 2844344
+ 339974 words of memory out of 3000000
  20127 multiletter control sequences out of 15000+600000
  473253 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -170,7 +170,7 @@ pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr10.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 67976 bytes).
+Output written on resume.pdf (1 page, 68060 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
