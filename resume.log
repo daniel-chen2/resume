@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.29)  1 APR 2022 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.29)  1 APR 2022 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -58,7 +58,35 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 No auxiliary output files.
 
-) (fontawesome.sty)
+)
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5.sty
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box52
+))
+Package: fontawesome5 2020/03/24 v5.13.0 Font Awesome 5
+
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5-generic-helper.sty
+Package: fontawesome5-generic-helper 2020/03/24 v5.13.0 non-uTeX helper for fon
+tawesome5
+
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
+e5-mapping.def)))
 (C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -68,9 +96,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -82,27 +110,21 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@dimlist=\toks18
 
 (C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-
-(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count197
-\l__pdf_internal_box=\box52
-) (resume.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+(resume.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -138,30 +160,42 @@ LaTeX Font Info:    ... okay on input line 15.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
+ input line 17.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 15--15
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
+mebrands0.fd)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 17--17
 [] 
  []
 
-! Undefined control sequence.
-\@addresstwo ->d.chen@live.com \faQuoteLeft 
-                                            \\ 0405 206 287 \\ Perth, WA
-l.15 \begin{document}
-                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 17.
+
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
+mefree1.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
+nput line 17.
+
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
+mefree2.fd)
+
+Package fontawesome5 Warning: The requested icon phone has been replaced by
+(fontawesome5)                the solid version
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--23
+Package fontawesome5 Warning: The requested icon location-arrow has been
+(fontawesome5)                replaced by the solid version
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--25
 
  []
 
@@ -169,23 +203,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--23
 
 {C:/Users/DChen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 2143 strings out of 478582
- 34642 string characters out of 2844344
- 342085 words of memory out of 3000000
- 20356 multiletter control sequences out of 15000+600000
- 473253 words of font info for 41 fonts, out of 8000000 for 9000
+ 5037 strings out of 478582
+ 102383 string characters out of 2844344
+ 385215 words of memory out of 3000000
+ 23220 multiletter control sequences out of 15000+600000
+ 474415 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,6n,76p,577b,180s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\
-DChen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/U
-sers/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.
-pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr10.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 68038 bytes).
+DChen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk>{C:/U
+sers/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.
+enc}{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/
+fa5free1.enc}{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/font
+awesome5/fa5brands0.enc}<C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/DChen/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.p
+fb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome
+5/FontAwesome5Free-Solid.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DChen/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DChen/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DChen/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on resume.pdf (1 page, 96294 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
