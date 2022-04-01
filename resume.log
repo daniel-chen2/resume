@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.29)  1 APR 2022 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.29)  1 APR 2022 23:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -199,6 +199,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--25
 
  []
 
+
+Package fontawesome5 Warning: The requested icon phone has been replaced by
+(fontawesome5)                the solid version
+
+
+Package fontawesome5 Warning: The requested icon phone has been replaced by
+(fontawesome5)                the solid version
+
 [1
 
 {C:/Users/DChen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] ) 
@@ -209,7 +217,7 @@ Here is how much of TeX's memory you used:
  23220 multiletter control sequences out of 15000+600000
  474415 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,76p,577b,180s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,6n,76p,577b,202s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\
 DChen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk>{C:/U
 sers/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.
@@ -224,7 +232,7 @@ s/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DChen/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DChen/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DChen/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 96294 bytes).
+Output written on resume.pdf (1 page, 96681 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
