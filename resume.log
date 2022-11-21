@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  21 NOV 2022 21:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  21 NOV 2022 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -194,37 +194,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--24
  []
 
 
-Package fontawesome5 Warning: The requested icon phone has been replaced by
+Package fontawesome5 Warning: The requested icon globe has been replaced by
 (fontawesome5)                the solid version
 
 [1
 
-{C:/Users/DChen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] ) 
+{C:/Users/DChen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] ) 
 Here is how much of TeX's memory you used:
- 5111 strings out of 475385
- 104333 string characters out of 2776906
- 436906 words of memory out of 3000000
- 26488 multiletter control sequences out of 15000+600000
- 474415 words of font info for 45 fonts, out of 8000000 for 9000
+ 5113 strings out of 475385
+ 104378 string characters out of 2776906
+ 437906 words of memory out of 3000000
+ 26489 multiletter control sequences out of 15000+600000
+ 474720 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,76p,577b,206s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\
-DChen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk>{C:/U
-sers/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands
-0.enc}{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome
-5/fa5free2.enc}{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fo
-ntawesome5/fa5free1.enc}<C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/DChen/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.p
-fb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome
-5/FontAwesome5Free-Solid.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DChen/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DChen/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DChen/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 95206 bytes).
+ 70i,6n,76p,577b,209s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Use
+rs/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.en
+c} <C:\Users\DChen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1095.pk>{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontaweso
+me5/fa5brands0.enc}{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
+s/fontawesome5/fa5free2.enc}<C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/DChen/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regul
+ar.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawe
+some5/FontAwesome5Free-Solid.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DChen/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DChen/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DChen/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on resume.pdf (2 pages, 100237 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
