@@ -2,95 +2,76 @@
 
 \usepackage{fontawesome5}
 
-\usepackage[left=0.4 in,top=0.25 in,right=0.4 in,bottom=0.25in]{geometry} % Document margins
+\usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.2in]{geometry} % Document margins
 
-\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
-\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-
-\name{Daniel Chen }
+\name{Daniel Chen}
 
 \address{
-	\faIcon[regular]{linkedin} linkedin.com/in/daniel-chen-developer \\
-	\faIcon[regular]{github} github.com/daniel-chen2 
-}
-
-\address{
-	\faIcon[regular]{envelope} d.chen@live.com \\ \faIcon[regular]{phone} 0405 206 287 
+	\faIcon[regular]{envelope} d.chen@live.com \\ \faIcon[regular]{phone} 0405 206 287 \\
+	\faIcon[regular]{github} github.com/daniel-chen2 \\ \faIcon[regular]{linkedin} linkedin.com/in/daniel-chen-developer
 }
 
 \begin{document}
 	\begin{rSection}{SKILLS}
 		\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-			Languages & Typescript/JavaScript, Python, Java, C\#, HTML, CSS, Oracle SQL \\
-			Frameworks/ Libraries &  Angular, Apollo GraphQL, Java Spring Boot, .NET, Django \\
-			Tools & Git, Jenkins, Octopus Deploy, TeamCity, Jira, Tableau\\
-			Other Skills & Agile, Scrum, Solutions Architecture (6mths)
+			Frameworks/ Libraries &  Angular \& Next.js (Typescript), Spring Boot (Java), Django (Python), \\
+			& Scikit-learn \& Ollama (AI/ML) \\
+			Tools & Git, Jenkins, Octopus Deploy, TeamCity, Jira, Figma (Basic)\\
+			Spoken Languages & English (Native), Mandarin (Conversational), Cantonese (Conversational)
 		\end{tabular}\\
 	\end{rSection}
-	
+
 	\begin{rSection}{Work History}
-		\vspace{-1.25em}
-		\item \textbf{Software Engineer (Graduate)} {Bankwest} \hfill Feb 2021 - Current
-		\item
+		\vspace{-0.8em}
+		\item \textbf{Software Engineer} {Bankwest (CBA)} \hfill Feb 2021 - Current
 		\begin{itemize} 
-			\item Designed and implemented logic within our bank validations software that allowed the validations colleague
-to refer a deal to the fraud team and generate the correct document for both customer and originator.
-Implemented thorough unit testing to ensure this feature worked as expected.
-			\item Drove architecture design and governance activities around the migration of core customer data (1M+
-records) away from our legacy core banking system. This enabled the bank to have a strategy to enable
-a transition into a more agile microservices environment
-			\item Technical Owner/Lead on two internal tools that tracked the tech health and lead time to change metrics
+			\item Developed on-the-fly Naieve Bayes Machine Learning based text categorisation system that improved bank file categorisation rates by up to 40\% from manual-analysis categorisation strategies. This resulted in drastically reduced rates of manual work by Indexing team and led to being nominated for an Australia-Wide CBA Individual Excellence Award Nomination.
+			\item Stream Lead on developing Bankwest's first LLM powered broker chat application in under two months. The role involved interfacing with CBA engineering team to align on technical details and architecture, as well as ensuring high model performance and solution stays within guardrails. 
+			\item Technical Owner on two internal tools that tracked the tech health and lead time to change metrics
 for all systems bankwide. This allowed technology executives to easily report on the health of their systems
 through a UI interface. This data was then used to inform bankwide KPIs			
 			\item Developed 3 key learning initiatives for 30+ technology graduates including organising a monthly talk from
 a senior technology colleague, a central document to describe bankwide technologies and being a founding
 member of a software engineering book club
-			\item Processed data of 1M+ bank customers to create/modify and maintain 8 dashboards that enabled several
-key stakeholders to correctly assess the performance of bank credit scorecards and collections systems
-		\end{itemize}
-		\item \textbf{Intern (Developer)} {Australian Bureau of Statistics} \hfill Nov  2021 - Feb 2021
-		\begin{itemize} 
-			\item Configured Jenkins to enable automated unit testing in for 300+ tests that saved many developer man hours and ensured proper unit test coverage
-			\item Made several bugfixes within internal software including fixing a long standing issue with communication to a roles API
 		\end{itemize}
 		
-
 		\item \textbf{HPC IT Officer} {DownUnder Geosolutions} \hfill Jan 2018 - Oct 2019
 		\begin{itemize} 
 
 			\item  Diagnosed and repaired networking and performance issues with underperforming High-Performance Computers in the 600+ node machine room
 		\end{itemize}
 
-		\item \textbf{TEDxUWA} {Head of Events/ Head of Communications} (Volunteer) 
-		\begin{itemize} 
-			\item Directed and planned with 20+ committee members to cater to large speaking events that catered to upwards of 700 attendees. This resulted in events with consistently high net promoter scores (up to 92)  
-		\end{itemize}
 	\end{rSection} 
-	
-	\begin{rSection}{Education}
-		\vspace{-1.25em}
-		\item \textbf{Graduate Diploma of Cyber Security} {Curtin} - GPA: 7.0/7.0 \hfill Ongoing
-		\item \textbf{Bsc Computer Science/ Finance UWA} {University of Western Australia} - GPA: 6.1/7.0 \hfill 
+
+	\begin{rSection}{Projects}
+		\vspace{-0.8em}
+		\item \textbf{AI Chinese Reading Application} {\hfill \faIcon[regular]{github} TBD URL}  
 		\begin{itemize} 
-			\scriptsize\item \textit{Volunteering Activities: English for Refugees Tutor, UWA Basketball Club Events Manager, WAUC Charity Consultant} \hfill
+			\item Developed (Next.js, Django \& Ollama), designed and marketed LLM powered Chinese Language Learning Application based on Stephen Krashen's theory of Comprehensible Input. The app serves hundreds of users weekly.
+			\item Developed Asynchronous LLM request strategy with asyncio and SSE Streaming Solution to be able to serve per word and per sentence Chinese Translations to up to x users at a time
 		\end{itemize}
 	\end{rSection} 
 
-	% \begin{rSection}{Projects}
-	% 	\vspace{-1.25em}
-	% 	% \item \textbf{Danielchen.tech} {\hfill \faIcon[regular]{globe} https://danielchen.tech/}  
-	% 	% \begin{itemize} 
-	% 	% 	\item Personal Blog dedicated to learning best software practices of the industry.   
-	% 	% \end{itemize}
-	% 	\item \textbf{Gaming Prices Aggregator Website} {\hfill \faIcon[regular]{github} https://github.com/daniel-chen2/GamePriceAggregator}  
-	% 	\begin{itemize} 
-	% 		\item Created automated scrape engine which scraped data from 10 gaming websites in under 1 hour and automatically outputted data to a CRUD app with a search feature (Django, Python, Heroku)
-	% 	\end{itemize}
-	% \end{rSection} 
+
+	\begin{rSection}{Certifications}
+		\vspace{-0.8em}
+		\item \textbf{AWS Developer Associate} {Amazon Web Services} \hfill
+		\item \textbf{Secure Code Warrior - Application Security Champion} \hfill 
+	\end{rSection}
 	
+	\begin{rSection}{Education}
+		\vspace{-0.8em}
+		\item \textbf{Bsc Computer Science/ Finance UWA} {University of Western Australia} - GPA: 6.1/7.0 \hfill 
+		\begin{itemize} 
+			\scriptsize\item \textit{Volunteering Activities: TEDxUWA Head of Events/ Communications, English for Refugees Tutor, UWA Basketball Club Events Manager, WAUC Charity Consultant} \hfill
+		\end{itemize}
+		\item \textbf{Graduate Diploma of Cyber Security} {Curtin} - GPA: 7.0/7.0 \hfill Discontinued
+		\item \textbf{Upper Intermediate Mandarin Course} {Taiwan Language Institute}\hfill 
+	\end{rSection} 
+
 	
 	\begin{rSection}{Referrals} 
-		\vspace{-1.25em}
+		\vspace{-0.8em}
 		\item \textbf{Jemie Effendy} {Software Engineer - Powerledger} 
 			\hfill 
 			\faIcon[regular]{phone} 0430 658 901

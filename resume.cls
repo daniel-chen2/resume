@@ -85,7 +85,7 @@
   \sectionlineskip
   \hrule
   \begin{list}{}{
-    \setlength{\leftmargin}{1.5em}
+    \setlength{\leftmargin}{0.5em}
   }
   \item[]
 }{
@@ -114,5 +114,5 @@
 \def\namesize{\huge}
 \def\nameskip{\medskip}
 \def\addressskip{\smallskip}
-\def\sectionskip{\bigskip}
-\def\sectionlineskip{\medskip}
+\def\sectionskip{\smallskip}
+\def\sectionlineskip{\smallskip}
