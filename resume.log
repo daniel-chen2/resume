@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  18 AUG 2025 19:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  25 AUG 2025 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -109,21 +109,33 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@dimlist=\toks18
 
 (C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 2
+0.
+
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 20.
+
 (resume.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -159,40 +171,53 @@ LaTeX Font Info:    ... okay on input line 14.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 14.
-
-(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree1.fd)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 19.70294pt on input line 20.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 19.70294pt on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 14.
+(Font)              <10.95> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
+(Font)              <8> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 14.
+(Font)              <6> on input line 20.
 
-(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree2.fd)
-
-Package fontawesome5 Warning: The requested icon phone has been replaced by
-(fontawesome5)                the solid version
-
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 14.
-
-(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mebrands0.fd)
-Overfull \hbox (30.0pt too wide) in paragraph at lines 14--14
+Overfull \hbox (30.0pt too wide) in paragraph at lines 20--20
 [] 
  []
 
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 21.
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--22
+Underfull \hbox (badness 10000) in paragraph at lines 22--29
 
  []
 
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
+5.
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 35.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
+ input line 56.
+
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
+mebrands0.fd)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 68.
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 68.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 7.59998pt on input line 68.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
+nput line 79.
+
+(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
+mefree2.fd)
 
 Package fontawesome5 Warning: The requested icon phone has been replaced by
 (fontawesome5)                the solid version
@@ -201,32 +226,28 @@ Package fontawesome5 Warning: The requested icon phone has been replaced by
 
 {C:/Users/DChen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 5113 strings out of 475385
- 104366 string characters out of 2776906
- 438935 words of memory out of 3000000
- 26488 multiletter control sequences out of 15000+600000
- 475104 words of font info for 47 fonts, out of 8000000 for 9000
+ 5210 strings out of 475385
+ 106018 string characters out of 2776906
+ 439152 words of memory out of 3000000
+ 26576 multiletter control sequences out of 15000+600000
+ 482787 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,76p,577b,206s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\
-DChen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk> <C:\
-Users\DChen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk
->{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5
-brands0.enc}{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fonta
-wesome5/fa5free2.enc}{C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dv
-ips/fontawesome5/fa5free1.enc}<C:/Users/DChen/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/DChen/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Reg
-ular.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/fonta
-wesome5/FontAwesome5Free-Solid.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/DChen/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/DChen/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/DChen/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
-/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on resume.pdf (1 page, 113821 bytes).
+ 70i,6n,76p,577b,240s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/D
+Chen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C
+:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Use
+rs/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.
+enc}<C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesom
+e5/FontAwesome5Brands-Regular.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/DChen/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/
+DChen/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Use
+rs/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/
+Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+
+Output written on resume.pdf (1 page, 63184 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

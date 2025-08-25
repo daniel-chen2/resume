@@ -4,35 +4,43 @@
 
 \usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.2in]{geometry} % Document margins
 
+% Use Helvetica (Arial-like) as the default font
+\usepackage[scaled=0.95]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
 \name{Daniel Chen}
 
 \address{
-	\faIcon[regular]{envelope} d.chen@live.com \\ \faIcon[regular]{phone} 0405 206 287 \\
-	\faIcon[regular]{github} github.com/daniel-chen2 \\ \faIcon[regular]{linkedin} linkedin.com/in/daniel-chen-developer
+	d.chen@live.com \\	
+	(+61) 405 206 287 \\
+	https://dchen.app \\
+	linkedin.com/in/daniel-chen-developer
 }
 
 \begin{document}
 	\begin{rSection}{SKILLS}
 		\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-			Frameworks/ Libraries &  Angular \& Next.js (Typescript), Spring Boot (Java), Django (Python), \\
-			& Scikit-learn \& Ollama (AI/ML) \\
-			Tools & Git, Jenkins, Octopus Deploy, TeamCity, Jira, Figma (Basic)\\
-			Spoken Languages & English (Native), Mandarin (Conversational), Cantonese (Conversational)
+			Frameworks/ Libraries &  Angular \& Next.js (Typescript), Spring Boot (Java), Django (Python), Scikit-learn \\
+            Tools & Git, Octopus Deploy, TeamCity (CI/CD), Jira, Figma (Basic)\\
+            Other Skills & Agile, Scrum, Solutions Architecture \\ 
+			Certifications & Amazon Associate Developer, Secure Code Warrior Appsec Champion \\
+			Spoken Languages & English (Native), Mandarin (Conversational), Cantonese (Conversational) \\
 		\end{tabular}\\
 	\end{rSection}
 
 	\begin{rSection}{Work History}
 		\vspace{-0.8em}
-		\item \textbf{Software Engineer} {Bankwest (CBA)} \hfill Feb 2021 - Current
+		\item \textbf{Software Engineer} {Bankwest / Commonwealth Bank of Australia} \hfill Feb 2021 - Current
 		\begin{itemize} 
-			\item Developed on-the-fly Naieve Bayes Machine Learning based text categorisation system that improved bank file categorisation rates by up to 40\% from manual-analysis categorisation strategies. This resulted in drastically reduced rates of manual work by Indexing team and led to being nominated for an Australia-Wide CBA Individual Excellence Award Nomination.
-			\item Stream Lead on developing Bankwest's first LLM powered broker chat application in under two months. The role involved interfacing with CBA engineering team to align on technical details and architecture, as well as ensuring high model performance and solution stays within guardrails. 
-			\item Technical Owner on two internal tools that tracked the tech health and lead time to change metrics
-for all systems bankwide. This allowed technology executives to easily report on the health of their systems
-through a UI interface. This data was then used to inform bankwide KPIs			
+			\item Developed instant "on upload" Naieve Bayes machine learning model that categorised critical bank documents at a rate of up to \textbf{90\%}. This led to a significant decrease in reliance on back-office manual categorisation while maintaining optimal user experience. This achievement led to a subsequent nomination for an individual excellence award.
+			\item Designated as "Stream Lead" on developing Bankwest's first LLM powered broker chat application with a deadline of two months (Fastest greenfield project in Bank History). The role involved interfacing with an external engineering team to align on technical details and architecture, as well as leading the team to consume the streamed LLM output to a Java API and subsequently to an Angular Frontend.
+			\item Technical Owner on two internal tools that automated the tracking of tech health and lead time to change metrics
+for hundreds of systems bankwide. This allowed technology executives to easily find reporting on the health of their systems
+through a UI interface.		
 			\item Developed 3 key learning initiatives for 30+ technology graduates including organising a monthly talk from
 a senior technology colleague, a central document to describe bankwide technologies and being a founding
 member of a software engineering book club
+			\item \textbf{Awards}: Hack Day Winner (FY1 2024), National Individual Excellence Award Nominee (FY1 2024) 
 		\end{itemize}
 		
 		\item \textbf{HPC IT Officer} {DownUnder Geosolutions} \hfill Jan 2018 - Oct 2019
@@ -45,19 +53,13 @@ member of a software engineering book club
 
 	\begin{rSection}{Projects}
 		\vspace{-0.8em}
-		\item \textbf{AI Chinese Reading Application} {\hfill \faIcon[regular]{github} TBD URL}  
+		\item \textbf{LLM based Chinese Reading Application} {\hfill \faIcon[regular]{github} TBD URL}  
 		\begin{itemize} 
 			\item Developed (Next.js, Django \& Ollama), designed and marketed LLM powered Chinese Language Learning Application based on Stephen Krashen's theory of Comprehensible Input. The app serves hundreds of users weekly.
 			\item Developed Asynchronous LLM request strategy with asyncio and SSE Streaming Solution to be able to serve per word and per sentence Chinese Translations to up to x users at a time
 		\end{itemize}
 	\end{rSection} 
 
-
-	\begin{rSection}{Certifications}
-		\vspace{-0.8em}
-		\item \textbf{AWS Developer Associate} {Amazon Web Services} \hfill
-		\item \textbf{Secure Code Warrior - Application Security Champion} \hfill 
-	\end{rSection}
 	
 	\begin{rSection}{Education}
 		\vspace{-0.8em}
@@ -72,7 +74,7 @@ member of a software engineering book club
 	
 	\begin{rSection}{Referrals} 
 		\vspace{-0.8em}
-		\item \textbf{Jemie Effendy} {Software Engineer - Powerledger} 
+		\item \textbf{Ujjwal Sharma} {Staff Engineer (Techjnical Lead) - Bankwest} 
 			\hfill 
 			\faIcon[regular]{phone} 0430 658 901
 	\end{rSection}
