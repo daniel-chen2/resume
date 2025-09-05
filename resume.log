@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  5 SEP 2025 18:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  5 SEP 2025 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -207,14 +207,14 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
 (Font)              scaled to size 10.40245pt on input line 35.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
 nput line 56.
 
 (C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree1.fd)
+mefree2.fd)
 
-Package fontawesome5 Warning: The requested icon globe has been replaced by
-(fontawesome5)                the solid version
+Package fontawesome5 Warning: The requested icon link has been replaced by the
+(fontawesome5)                solid version
 
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 7.59998pt on input line 67.
@@ -224,11 +224,6 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 67.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
 (Font)              scaled to size 7.59998pt on input line 67.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 77.
-
-(C:\Users\DChen\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree2.fd)
 
 Package fontawesome5 Warning: The requested icon phone has been replaced by
 (fontawesome5)                the solid version
@@ -237,26 +232,25 @@ Package fontawesome5 Warning: The requested icon phone has been replaced by
 
 {C:/Users/DChen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 5231 strings out of 475385
- 106395 string characters out of 2776906
+ 5212 strings out of 475385
+ 105817 string characters out of 2776906
  439142 words of memory out of 3000000
- 26593 multiletter control sequences out of 15000+600000
- 483048 words of font info for 54 fonts, out of 8000000 for 9000
+ 26579 multiletter control sequences out of 15000+600000
+ 482466 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,6n,76p,577b,240s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/D
-Chen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C
-:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Use
-rs/DChen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.en
-c}<C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
-/FontAwesome5Free-Solid.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/DChen/AppData/Local/Programs/MiK
-TeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/DChen/AppData/Local/Programs/
-MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/DChen/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on resume.pdf (1 page, 57270 bytes).
+Chen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/DChen/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}<C:/Use
+rs/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwes
+ome5Free-Solid.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fonts
+/type1/urw/helvetic/uhvb8a.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX/fo
+nts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/DChen/AppData/Local/Programs/MiKTeX
+/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on resume.pdf (1 page, 54287 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
